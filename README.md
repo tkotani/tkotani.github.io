@@ -1,2 +1,1 @@
-# tkotani.github.io
-https://github.com/tkotani
+[https://github.com/tkotani]
